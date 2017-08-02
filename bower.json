@@ -3,7 +3,7 @@
   "authors": [
     "collaborne"
   ],
-  "description": "A Material Design chip (Polymer 1.x)",
+  "description": "A Material Design chip (Polymer)",
   "main": "paper-chip.html",
   "keywords": [
     "web-components",
@@ -26,9 +26,7 @@
     "paper-styles": "PolymerElements/paper-styles#^2.0.0"
   },
   "devDependencies": {
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "test-fixture": "PolymerElements/test-fixture#^1.0.0",
-    "web-component-tester": "*",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+    "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
+    "web-component-tester": "*"
   }
 }
